@@ -81,6 +81,7 @@ namespace Lotto_Checker
                     result += "\n";
                     en.MoveNext();
                 }
+                result += "-------------------\n\n";
             }
 
             return result;
